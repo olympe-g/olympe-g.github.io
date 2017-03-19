@@ -1,0 +1,71 @@
+.profile-pic{
+	max-width: 100%;
+}
+.my-name{
+	margin-top: 2%;
+	font-family: Book Antiqua;
+	font-size: 200%;
+	font-weight: bold;
+	font-family: 'Righteous', cursive;
+}
+.social-icon:hover{
+	color: blue;
+}
+.social-icon{
+	color: hotpink;
+}
+.underlined-text{
+	text-decoration-line: underline; 
+	text-align: center;
+	font-family: 'Righteous', cursive;
+}
+.card-footer{
+	background-color: white;
+}
+a:hover{
+	text-decoration: none;
+}
+body{
+	background-image: url(http://combiboilersleeds.com/images/stars/stars-4.jpg);
+}
+.card{
+	margin: 3%;
+	background-color: #ffb3ff;
+}
+.col-md-4{
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.navbar{
+	background-image: url(http://www.drodd.com/images15/sunset21.jpg);
+	width: 100%;
+	justify-content: center;
+}
+.nav-item{
+	color: hotpink;
+}
+.description{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/49/6b/65/496b65edfa8065b1e938dcf25287d9d0.jpg);
+}
+.wine{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/e8/b3/84/e8b384f75563c7f85a94f6ce93841c3d.jpg);
+}
+.presentation-title{
+	width: 100%;
+	color: hotpink;
+	margin-top: 25%;
+}
+.front-button{
+	width: 100%;
+	color: hotpink;
+}
+.home-page{
+	background-image: url('../img/travel.gif');
+	background-size: cover;
+}
+.homebox{
+	margin-top: 20%;
+}
+.title-page{
+	margin: 15%;
+}

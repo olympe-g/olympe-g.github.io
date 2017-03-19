@@ -30,7 +30,7 @@ body{
 }
 .card{
 	margin: 3%;
-	background-color: #ffb3ff;
+	background-color: white;
 }
 .col-md-4{
 	margin-top: 3%;
@@ -44,6 +44,9 @@ body{
 .nav-item{
 	color: hotpink;
 }
+.nav-item:hover{
+	color: blue;
+}
 .description{
 	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/49/6b/65/496b65edfa8065b1e938dcf25287d9d0.jpg);
 }
@@ -53,19 +56,23 @@ body{
 .presentation-title{
 	width: 100%;
 	color: hotpink;
-	margin-top: 25%;
+	font-family: 'Righteous', cursive;
 }
 .front-button{
 	width: 100%;
 	color: hotpink;
 }
 .home-page{
-	background-image: url('../img/travel.gif');
+	background-image: url('../img/brad.jpg');
 	background-size: cover;
 }
 .homebox{
-	margin-top: 20%;
+	margin-top: 10%;
 }
 .title-page{
 	margin: 15%;
+}
+.button-features{
+	color: hotpink;
+	font-family: 'Righteous', cursive;
 }
